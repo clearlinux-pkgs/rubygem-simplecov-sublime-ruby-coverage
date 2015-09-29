@@ -4,7 +4,7 @@
 #
 Name     : rubygem-simplecov-sublime-ruby-coverage
 Version  : 1.0.0
-Release  : 1
+Release  : 2
 URL      : https://rubygems.org/downloads/simplecov-sublime-ruby-coverage-1.0.0.gem
 Source0  : https://rubygems.org/downloads/simplecov-sublime-ruby-coverage-1.0.0.gem
 Summary  : No detailed summary available
