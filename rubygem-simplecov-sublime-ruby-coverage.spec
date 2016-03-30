@@ -4,7 +4,7 @@
 #
 Name     : rubygem-simplecov-sublime-ruby-coverage
 Version  : 1.0.0
-Release  : 2
+Release  : 3
 URL      : https://rubygems.org/downloads/simplecov-sublime-ruby-coverage-1.0.0.gem
 Source0  : https://rubygems.org/downloads/simplecov-sublime-ruby-coverage-1.0.0.gem
 Summary  : No detailed summary available
@@ -62,27 +62,18 @@ popd
 
 %files
 %defattr(-,root,root,-)
-/usr/lib64/ruby/gems/2.2.0/cache/simplecov-sublime-ruby-coverage-1.0.0.gem
-/usr/lib64/ruby/gems/2.2.0/doc/simplecov-sublime-ruby-coverage-1.0.0/ri/SimpleCov/Formatter/SublimeRubyCoverageFormatter/cdesc-SublimeRubyCoverageFormatter.ri
-/usr/lib64/ruby/gems/2.2.0/doc/simplecov-sublime-ruby-coverage-1.0.0/ri/SimpleCov/Formatter/SublimeRubyCoverageFormatter/format-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/simplecov-sublime-ruby-coverage-1.0.0/ri/SimpleCov/Formatter/SublimeRubyCoverageFormatter/output_path-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/simplecov-sublime-ruby-coverage-1.0.0/ri/SimpleCov/Formatter/SublimeRubyCoverageFormatter/relative_filename-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/simplecov-sublime-ruby-coverage-1.0.0/ri/SimpleCov/Formatter/SublimeRubyCoverageFormatter/shortened_filename-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/simplecov-sublime-ruby-coverage-1.0.0/ri/SimpleCov/Formatter/cdesc-Formatter.ri
-/usr/lib64/ruby/gems/2.2.0/doc/simplecov-sublime-ruby-coverage-1.0.0/ri/SimpleCov/cdesc-SimpleCov.ri
-/usr/lib64/ruby/gems/2.2.0/doc/simplecov-sublime-ruby-coverage-1.0.0/ri/cache.ri
-/usr/lib64/ruby/gems/2.2.0/doc/simplecov-sublime-ruby-coverage-1.0.0/ri/page-README_md.ri
-/usr/lib64/ruby/gems/2.2.0/gems/simplecov-sublime-ruby-coverage-1.0.0/Manifest
-/usr/lib64/ruby/gems/2.2.0/gems/simplecov-sublime-ruby-coverage-1.0.0/README.md
-/usr/lib64/ruby/gems/2.2.0/gems/simplecov-sublime-ruby-coverage-1.0.0/Rakefile
-/usr/lib64/ruby/gems/2.2.0/gems/simplecov-sublime-ruby-coverage-1.0.0/lib/simplecov-sublime-ruby-coverage.rb
-/usr/lib64/ruby/gems/2.2.0/gems/simplecov-sublime-ruby-coverage-1.0.0/simplecov-sublime-ruby-coverage.gemspec
-/usr/lib64/ruby/gems/2.2.0/gems/simplecov-sublime-ruby-coverage-1.0.0/test/fixtures/app/controllers/sample_controller.rb
-/usr/lib64/ruby/gems/2.2.0/gems/simplecov-sublime-ruby-coverage-1.0.0/test/fixtures/app/models/user.rb
-/usr/lib64/ruby/gems/2.2.0/gems/simplecov-sublime-ruby-coverage-1.0.0/test/fixtures/sample.rb
-/usr/lib64/ruby/gems/2.2.0/gems/simplecov-sublime-ruby-coverage-1.0.0/test/fixtures/test-fixtures-app-controllers-sample_controller_rb.csv
-/usr/lib64/ruby/gems/2.2.0/gems/simplecov-sublime-ruby-coverage-1.0.0/test/fixtures/test-fixtures-app-models-user_rb.csv
-/usr/lib64/ruby/gems/2.2.0/gems/simplecov-sublime-ruby-coverage-1.0.0/test/fixtures/test-fixtures-sample_rb.csv
-/usr/lib64/ruby/gems/2.2.0/gems/simplecov-sublime-ruby-coverage-1.0.0/test/helper.rb
-/usr/lib64/ruby/gems/2.2.0/gems/simplecov-sublime-ruby-coverage-1.0.0/test/simplecov-sublime-ruby-coverage_test.rb
-/usr/lib64/ruby/gems/2.2.0/specifications/simplecov-sublime-ruby-coverage-1.0.0.gemspec
+/usr/lib64/ruby/gems/2.3.0/cache/simplecov-sublime-ruby-coverage-1.0.0.gem
+/usr/lib64/ruby/gems/2.3.0/gems/simplecov-sublime-ruby-coverage-1.0.0/Manifest
+/usr/lib64/ruby/gems/2.3.0/gems/simplecov-sublime-ruby-coverage-1.0.0/README.md
+/usr/lib64/ruby/gems/2.3.0/gems/simplecov-sublime-ruby-coverage-1.0.0/Rakefile
+/usr/lib64/ruby/gems/2.3.0/gems/simplecov-sublime-ruby-coverage-1.0.0/lib/simplecov-sublime-ruby-coverage.rb
+/usr/lib64/ruby/gems/2.3.0/gems/simplecov-sublime-ruby-coverage-1.0.0/simplecov-sublime-ruby-coverage.gemspec
+/usr/lib64/ruby/gems/2.3.0/gems/simplecov-sublime-ruby-coverage-1.0.0/test/fixtures/app/controllers/sample_controller.rb
+/usr/lib64/ruby/gems/2.3.0/gems/simplecov-sublime-ruby-coverage-1.0.0/test/fixtures/app/models/user.rb
+/usr/lib64/ruby/gems/2.3.0/gems/simplecov-sublime-ruby-coverage-1.0.0/test/fixtures/sample.rb
+/usr/lib64/ruby/gems/2.3.0/gems/simplecov-sublime-ruby-coverage-1.0.0/test/fixtures/test-fixtures-app-controllers-sample_controller_rb.csv
+/usr/lib64/ruby/gems/2.3.0/gems/simplecov-sublime-ruby-coverage-1.0.0/test/fixtures/test-fixtures-app-models-user_rb.csv
+/usr/lib64/ruby/gems/2.3.0/gems/simplecov-sublime-ruby-coverage-1.0.0/test/fixtures/test-fixtures-sample_rb.csv
+/usr/lib64/ruby/gems/2.3.0/gems/simplecov-sublime-ruby-coverage-1.0.0/test/helper.rb
+/usr/lib64/ruby/gems/2.3.0/gems/simplecov-sublime-ruby-coverage-1.0.0/test/simplecov-sublime-ruby-coverage_test.rb
+/usr/lib64/ruby/gems/2.3.0/specifications/simplecov-sublime-ruby-coverage-1.0.0.gemspec
